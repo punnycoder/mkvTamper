@@ -6,6 +6,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 ## Credits, and Thanks to
 
+* [shriMADhav](https://telegram.dog/SpEcHIDe) for the code I cloned from his [AnyDLBot][https://github.com/SpEcHiDe/AnyDLBot]
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
 
@@ -33,11 +34,11 @@ An example `config.py` file could be:
 from anydlbot.sample_config import Config
 
 class Development(Config):
-  APP_ID = 6
-  API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+  APP_ID = 00000
+  API_HASH = "eb0000400000000000b0000000081e"
   TG_BOT_TOKEN = ""
   AUTH_USERS = [
-    7351948
+    00000000
   ]
 ```
 
