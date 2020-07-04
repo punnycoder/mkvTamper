@@ -1,1 +1,1 @@
-worker: python3 -m mkvtamperbot
+worker: python3 -m anydlbot
